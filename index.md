@@ -24,6 +24,6 @@ email: iran at ccrma.stanford.edu
 
 find me on: 
 
-[github](https://www.github.com/iranroman)
-
-[linkedin](https://www.linkedin.com/in/iran-roman)
+<pre>
+<a href="https://www.github.com/iranroman">github</a>  <a href="https://www.linkedin.com/in/iran-roman">linkedin</a>   
+</pre>
