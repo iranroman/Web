@@ -5,7 +5,8 @@ filename = sys.argv[1]
 
 header = """| [Home](https://ccrma.stanford.edu/~iran) 
             | [Research](https://ccrma.stanford.edu/~iran/research) 
-            | [Teaching](https://ccrma.stanford.edu/~iran/teaching) |\n""" 
+            | [Teaching](https://ccrma.stanford.edu/~iran/teaching) 
+            | [Notes](https://ccrma.stanford.edu/~iran/notes) |\n""" 
 
 with open(filename+'.md', 'r') as f:
     text = f.read()

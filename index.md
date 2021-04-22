@@ -13,7 +13,7 @@ I hold a Ph.D. from Stanford University in computer-based music theory and acous
 
 Previous to my Ph.D. studies I majored in biology, music theory, and German language at the University of North Texas.
 
-In parallel to my academic career, I have carried out machine listening research at Apple, Tesla, Osillo Biosciences, and Plantronics. 
+In parallel to my academic career, I have carried out machine listening research at Apple, Tesla, and Plantronics. 
 
 ---
 
