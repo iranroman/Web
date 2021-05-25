@@ -5,3 +5,6 @@ The reason they are here is because I think they can be useful to others.
 
 - [Youtube-ASMR dataset](https://ccrma.stanford.edu/~iran/notes/ytasmr.html)
     * details about how to obtain and process this dataset
+
+- [EigenScape dataset](https://ccrma.stanford.edu/~iran/notes/eigenscape.html)
+    * details about how this dataset was collected and format

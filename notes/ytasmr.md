@@ -13,7 +13,7 @@ Original paper: [Telling Left from Right: Learning Spatial Correspondence of Sig
 
 - The videos were randomly split by name into training, validation, and test sets.
 
-- The 10 second clips were randomly selected from each video based on total the length.
+- The 10-second clips were randomly selected from each video based on total the length.
  
 - The audio was resampled to 16kHz using librosa. The original sampling rate may vary depending on the video.
 
