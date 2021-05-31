@@ -4,4 +4,5 @@
 
 ## Teaching materials
 - [Digital signal processing software demonstrations](https://github.com/iranroman/DSP_demos)
-    * These are the materials I used to teach an introductory course on audio signal processing with Dr. Julius Smith. These were presented as live-coding demonstrations, incorporating input from students in real time.
+    * These are the materials I used to teach an introductory course on audio signal processing with Dr. Julius Smith. 
+    * Presented as live-coding demonstrations to incorporate student feedback/ideas in real time.
