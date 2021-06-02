@@ -19,7 +19,7 @@ In parallel to my academic career, I have carried out machine listening research
 
 ## contact me
 
-email: iran at ccrma.stanford.edu
+email: iran [at] ccrma.stanford.edu
 <pre>
 <a href=
 https://www.github.com/iranroman
