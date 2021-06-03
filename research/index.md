@@ -4,3 +4,4 @@
 
 ## Articles
 - [Hebbian learning with elasticity explains how the spontaneous motor tempo affects music performance synchronization (2021 preprint)](https://www.biorxiv.org/content/10.1101/2020.10.15.341610v2)
+    - Roman IR, Roman AS, Large EW. bioRxiv. 2020 Jan 24.
