@@ -5,7 +5,7 @@
 
 ---
 
-I'm a post-doctoral scholar at New York University's Music and Audio Research Laboratory, where I carry out research in theoretical neuroscience and machine listening. 
+I'm a postdoctoral scholar at New York University's Music and Audio Research Laboratory, where I carry out research in theoretical neuroscience and machine listening. 
 
 My goal is to develop machines that can listen to music and speech like humans do. So far, I have built mathematical models that explain how the human brain anticipates and synchronizes with the rhythms present in music and speech. 
 
@@ -25,5 +25,7 @@ email: iran [at] ccrma.stanford.edu
 https://www.github.com/iranroman
 style="font-size: 17px;" >github</a>   <a href=
 https://www.linkedin.com/in/iran-roman
-style="font-size: 17px;" >linkedin</a>   
+style="font-size: 17px;" >linkedin</a>   <a href=
+https://scholar.google.com/citations?user=W_PoFfkAAAAJ&hl=en&oi=ao
+style="font-size: 17px;" >scholar</a>   
 </pre>
